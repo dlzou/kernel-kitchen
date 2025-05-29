@@ -1,0 +1,8 @@
+kernels.egg-info
+.devcontainer/
+.hypothesis/
+__pycache__/
+
+*.csv
+*.html
+*.png
